@@ -45,10 +45,123 @@
       font-size: 18px;
       line-height: 21px;
       color: black;
-      background-color: wheat;
+      background-color: white;
   }
   /*Pages*/
   .page-header{
       color: #ffffff;
-      background: #E5E5E5;
+      background: #ffffff;
   }
+
+  .navigation-link{
+    font-family: "PT Sans Narrow", sans-serif;
+    line-height: 26px;
+    font-weight: 700;
+    text-align: center;
+    color: black;
+    background-color: #ffffff;
+    text-decoration: none;
+    font-style: Bold;
+  }
+  .button{
+    color: #ffffff;
+    text-decoration: none ;
+    text-transform: uppercase;
+    background-color: #756257;
+
+  }
+  
+  .index{
+    color: black;
+    background-color: white;
+
+  }
+  .background-index{
+    background-image: url("images/background/index-background.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+  }
+
+  .causes{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .five-reasons{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+  }
+
+  .advantages-list{
+    text-align: center;
+  }
+  .advantages-item-item{
+    background: #83B3D3;
+  }
+  .appointmet-title{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .hotel-search{
+    text-align: center;
+  }
+  .appointment-description{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 36px;
+    text-align: center;
+  }
+
+  .button-button{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    background:  #756257;
+    position: absolute;
+    
+  }
+
+  .subscription{
+    background-image: url("images/background/background.jpg");
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+  }
+
+  .subscription-title{
+    color: white;
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 36px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+ .subscription-text{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: center;
+  color: white;
+ } 
+
