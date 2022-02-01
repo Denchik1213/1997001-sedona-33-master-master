@@ -70,7 +70,7 @@
     background-color: #756257;
 
   }
-  
+  /*main-index*/
   .index{
     color: black;
     background-color: white;
@@ -211,7 +211,7 @@
     position: absolute;
     
   }
-
+/*footer*/
   .subscription{
     background-image: url("images/background/background.jpg");
     background-size: 100% auto;
@@ -251,3 +251,197 @@
    text-decoration: none;
    font-style: Bold;
  }
+/*catalog*/
+.inner-header{
+  background-color: black;
+  background-image: url("images/background/catalog-background 1.jpg");
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: ;
+  color: white;
+
+}
+
+.inner-header-title{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 78px;
+  color: white;
+
+}
+
+.breadcrumbs-link-index{
+  font-family: "PT Sans Narrow", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 21px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.infrastructure-title{
+  font-family: "PT Sans Narrow", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  color: white;
+}
+
+.control{
+  font-family: "PT Sans Narrow", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  color: white;
+}
+
+.button-appy{
+  color: #ffffff;
+  text-decoration: none ;
+  text-transform: uppercase;
+  background-color: #83B3D3;
+}
+
+.product-card-link{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 31px;
+  text-align: center;
+  color: #333333;
+  text-decoration: none;
+}
+
+.price{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: center;
+  color: #333333;
+}
+
+.product-card-button-button{
+  color: #ffffff;
+  text-decoration: none ;
+  text-transform: uppercase;
+  background-color: #756257;
+  width: 160px;
+  height: 37px;
+  border-radius: 4px;
+}
+
+.product-card-button-favorites{
+  color: #ffffff;
+  text-decoration: none ;
+  text-transform: uppercase;
+  background-color: #83B3D3;
+  width: 160px;
+  height: 37px;
+  border-radius: 4px;
+}
+
+.product-card-button-favorites-green{
+  color: #ffffff;
+  text-decoration: none ;
+  text-transform: uppercase;
+  background-color: #7DB54F;
+  width: 160px;
+  height: 37px;
+  border-radius: 4px;
+}
+
+.rating{
+  background-color: #F2F2F2;
+  width: 160px;
+  height: 37px;
+  border-radius: 4px;
+}
+
+.button-loadmore{
+  background-color: #83B3D3;
+  height: 60px;
+  width: 619px;
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  color: #FFFFFF;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 4px;
+}
+
+.pagination-item{
+  background-color: #83B3D3;
+  width: 55px;
+  height: 55px;
+  border-radius: 4px;
+}
+
+.pagination-item-1{
+  background-color: #F2F2F2;
+  width: 55px;
+  height: 55px;
+  border-radius: 4px;
+}
+
+.pagination-link{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 26px;
+  text-decoration: none;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #F2F2F2;
+}
+
+.hotel-search-select{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 39px;
+  text-transform: uppercase;
+  color: black;
+}
+
+.subscription-title-catalog{
+  color: black;
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 36px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.subscription-text{
+  font-family: "PT Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 36px;
+  text-align: center;
+  color: #333333;
+ } 
+
+
