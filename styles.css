@@ -82,6 +82,10 @@
     background-repeat: no-repeat;
   }
 
+  .divider{
+    background-image: url("images/background/divider.svg");
+  }
+
   .causes{
     font-family: "PT Sans", sans-serif;
     font-style: normal;
@@ -105,8 +109,80 @@
     text-align: center;
   }
   .advantages-item-item{
+    color: white;
     background: #83B3D3;
+    width: 400px;
+    height: 384px;
   }
+  .advantatges-title-title{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+  .advantages-description{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+  }
+
+
+  .advantages-item-houme{
+    background: rgba(131, 179, 211, 0.12) url("images/advantages/Group-1.svg") no-repeat center;
+    width: 400px;
+    height: 384px;
+  }
+
+  .advantages-item-eat{
+    background: #FFFFFF url("images/advantages/Group-2.svg") no-repeat center;
+    width: 400px;
+    height: 384px;
+  }
+
+  .advantages-item-suvenirs{
+    background: rgba(131, 179, 211, 0.12) url("images/advantages/Group-3.svg") no-repeat center;
+    width: 400px;
+    height: 384px;
+  }
+
+  .advantages-item-3{
+    background: rgba(131, 179, 211, 0.12);
+    width: 400px;
+    height: 384px;
+  }
+  .advantages-item-4{
+    background: rgba(131, 179, 211, 0.2);
+    width: 400px;
+    height: 384px;
+  }
+  .advantages-item-5{
+    background: rgba(131, 179, 211, 0.12);
+    width: 400px;
+    height: 384px;
+  }
+
+  .advantatges-title{
+    font-family: "PT Sans", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+
+  .hotel-search{
+    text-align: center;
+  }
+
   .appointmet-title{
     font-family: "PT Sans", sans-serif;
     font-style: normal;
@@ -116,18 +192,16 @@
     text-transform: uppercase;
     text-align: center;
   }
-
-  .hotel-search{
-    text-align: center;
-  }
   .appointment-description{
     font-family: "PT Sans", sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
-    line-height: 36px;
+    line-height: 26px;
     text-align: center;
   }
+
+
 
   .button-button{
     color: white;
@@ -165,3 +239,15 @@
   color: white;
  } 
 
+ .footer-contacts-phone{
+   font-family: "PT Sans",sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 40px;
+   line-height: 40px;
+   text-align: center;
+   color: black;
+   background-color: #ffffff;
+   text-decoration: none;
+   font-style: Bold;
+ }
